@@ -1,0 +1,6 @@
+{
+  "name": "LinguaFlow",
+  "description": "Aplikasi belajar Bahasa Jepang lengkap: kosakata N5, kuis, flashcard, kamus, peringkat liga, AI Sensei chat, dan latihan ucapan dengan evaluasi real-time berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
